@@ -1,6 +1,7 @@
 Simon's Stamp Collection App
 ---
 
-# About Simon
+# About Simon's Stamps  
 
-Simon is cool
+Simon is cool. He has a lot of stamps from many years ago. They are chinese stamps.
+
